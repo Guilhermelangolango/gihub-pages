@@ -1,0 +1,36 @@
+body{
+    color:white;
+    background-color: black;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+header img{
+    width: 500px;
+    height: 500px;
+}
+.container{
+    margin: 0px 50px;
+}
+footer img{
+    width: 40px;
+    height: 40px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+footer a{
+    margin: 20px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+footer p{
+    margin-top: 2px;
+}
+footer a:hover{
+    color: rgb(0, 238, 255);
+}
